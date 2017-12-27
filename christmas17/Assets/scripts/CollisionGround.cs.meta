@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4dd35da894ab8a943a320cc4af0732ec
+timeCreated: 1514024653
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - heart3: {instanceID: 0}
+  - heart2: {instanceID: 0}
+  - heart1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

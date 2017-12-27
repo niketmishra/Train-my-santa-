@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f822f253d0f3c734d88f4b9448482fd1
+timeCreated: 1514029281
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - scoreFinal: {instanceID: 0}
+  - coin: {fileID: 82177442044781966, guid: 101184574e0e5ff4982eeeb3eca6a17c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
