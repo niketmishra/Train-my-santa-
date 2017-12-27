@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-// © 2017 TheFlyingKeyboard
-// theflyingkeyboard.net
 public class MoveTillPoint : MonoBehaviour {
 	public float speed;
 	public GameObject pointA;
